@@ -1,0 +1,15 @@
+C:\Users\n64ev\OneDrive\Documents\ElevenFiftyProjects\codingFoundations\dotnetProjects\Gold Badge Challenges\Komodo Cafe\Komodo Cafe\bin\Debug\net6.0\Komodo Cafe.exe
+C:\Users\n64ev\OneDrive\Documents\ElevenFiftyProjects\codingFoundations\dotnetProjects\Gold Badge Challenges\Komodo Cafe\Komodo Cafe\bin\Debug\net6.0\Komodo Cafe.deps.json
+C:\Users\n64ev\OneDrive\Documents\ElevenFiftyProjects\codingFoundations\dotnetProjects\Gold Badge Challenges\Komodo Cafe\Komodo Cafe\bin\Debug\net6.0\Komodo Cafe.runtimeconfig.json
+C:\Users\n64ev\OneDrive\Documents\ElevenFiftyProjects\codingFoundations\dotnetProjects\Gold Badge Challenges\Komodo Cafe\Komodo Cafe\bin\Debug\net6.0\Komodo Cafe.dll
+C:\Users\n64ev\OneDrive\Documents\ElevenFiftyProjects\codingFoundations\dotnetProjects\Gold Badge Challenges\Komodo Cafe\Komodo Cafe\bin\Debug\net6.0\Komodo Cafe.pdb
+C:\Users\n64ev\OneDrive\Documents\ElevenFiftyProjects\codingFoundations\dotnetProjects\Gold Badge Challenges\Komodo Cafe\Komodo Cafe\obj\Debug\net6.0\Komodo Cafe.csproj.AssemblyReference.cache
+C:\Users\n64ev\OneDrive\Documents\ElevenFiftyProjects\codingFoundations\dotnetProjects\Gold Badge Challenges\Komodo Cafe\Komodo Cafe\obj\Debug\net6.0\Komodo Cafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n64ev\OneDrive\Documents\ElevenFiftyProjects\codingFoundations\dotnetProjects\Gold Badge Challenges\Komodo Cafe\Komodo Cafe\obj\Debug\net6.0\Komodo Cafe.AssemblyInfoInputs.cache
+C:\Users\n64ev\OneDrive\Documents\ElevenFiftyProjects\codingFoundations\dotnetProjects\Gold Badge Challenges\Komodo Cafe\Komodo Cafe\obj\Debug\net6.0\Komodo Cafe.AssemblyInfo.cs
+C:\Users\n64ev\OneDrive\Documents\ElevenFiftyProjects\codingFoundations\dotnetProjects\Gold Badge Challenges\Komodo Cafe\Komodo Cafe\obj\Debug\net6.0\Komodo Cafe.csproj.CoreCompileInputs.cache
+C:\Users\n64ev\OneDrive\Documents\ElevenFiftyProjects\codingFoundations\dotnetProjects\Gold Badge Challenges\Komodo Cafe\Komodo Cafe\obj\Debug\net6.0\Komodo Cafe.dll
+C:\Users\n64ev\OneDrive\Documents\ElevenFiftyProjects\codingFoundations\dotnetProjects\Gold Badge Challenges\Komodo Cafe\Komodo Cafe\obj\Debug\net6.0\refint\Komodo Cafe.dll
+C:\Users\n64ev\OneDrive\Documents\ElevenFiftyProjects\codingFoundations\dotnetProjects\Gold Badge Challenges\Komodo Cafe\Komodo Cafe\obj\Debug\net6.0\Komodo Cafe.pdb
+C:\Users\n64ev\OneDrive\Documents\ElevenFiftyProjects\codingFoundations\dotnetProjects\Gold Badge Challenges\Komodo Cafe\Komodo Cafe\obj\Debug\net6.0\Komodo Cafe.genruntimeconfig.cache
+C:\Users\n64ev\OneDrive\Documents\ElevenFiftyProjects\codingFoundations\dotnetProjects\Gold Badge Challenges\Komodo Cafe\Komodo Cafe\obj\Debug\net6.0\ref\Komodo Cafe.dll

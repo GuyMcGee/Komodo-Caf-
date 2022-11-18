@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "K_Cafe.UI/1.0.0": {
+        "dependencies": {
+          "K_Cafe.Data": "1.0.0"
+        },
+        "runtime": {
+          "K_Cafe.UI.dll": {}
+        }
+      },
+      "K_Cafe.Data/1.0.0": {
+        "runtime": {
+          "K_Cafe.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "K_Cafe.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "K_Cafe.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
