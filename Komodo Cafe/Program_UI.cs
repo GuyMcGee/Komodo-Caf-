@@ -186,6 +186,8 @@ internal class Program_UI
 
     public void ShowMenu()
     {
+        if (repo.Read().Count == 0)
+            Console.WriteLine("There are currently no items in the menu database.");
         foreach (MenuItem menuItem in repo.Read())
         PrintMenuItem(menuItem);
     }
